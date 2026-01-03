@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8Pool.UI", "8Pool.UI.csproj", "{921598A3-0141-4ADE-B52A-66EEAFEA37C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8pool.Core", "..\8pool.Core\8pool.Core.csproj", "{80F58C3D-DB10-4517-8B53-DCCD60A0E226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8pool.Data", "..\8pool.Data\8pool.Data.csproj", "{B6A711F4-E66F-4E4B-9FFA-582E9B90D86B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{921598A3-0141-4ADE-B52A-66EEAFEA37C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921598A3-0141-4ADE-B52A-66EEAFEA37C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921598A3-0141-4ADE-B52A-66EEAFEA37C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921598A3-0141-4ADE-B52A-66EEAFEA37C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F58C3D-DB10-4517-8B53-DCCD60A0E226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F58C3D-DB10-4517-8B53-DCCD60A0E226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F58C3D-DB10-4517-8B53-DCCD60A0E226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F58C3D-DB10-4517-8B53-DCCD60A0E226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A711F4-E66F-4E4B-9FFA-582E9B90D86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A711F4-E66F-4E4B-9FFA-582E9B90D86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A711F4-E66F-4E4B-9FFA-582E9B90D86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A711F4-E66F-4E4B-9FFA-582E9B90D86B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5368DB6-A06C-4A38-B234-E81BA7BE5821}
+	EndGlobalSection
+EndGlobal

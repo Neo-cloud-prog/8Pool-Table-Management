@@ -1,0 +1,6 @@
+C:\Users\hp\Downloads\Pool\8pool.Data\bin\Debug\8pool.Data.dll
+C:\Users\hp\Downloads\Pool\8pool.Data\bin\Debug\8pool.Data.pdb
+C:\Users\hp\Downloads\Pool\8pool.Data\obj\Debug\8pool.Data.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Pool\8pool.Data\obj\Debug\8pool.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Pool\8pool.Data\obj\Debug\8pool.Data.dll
+C:\Users\hp\Downloads\Pool\8pool.Data\obj\Debug\8pool.Data.pdb
